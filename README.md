@@ -399,7 +399,7 @@ Now Swift should execute properly.
   
   **Need more help?** [Join our Discord](https://discord.gg/getswift) | [Report a Bug](https://discord.gg/getswift)
   
-  <sub>Last updated: August 2023</sub>
+  <sub>Last updated: April 15, 2025</sub>
   
 </div>
 
@@ -412,3 +412,5 @@ Now Swift should execute properly.
 > - README.gd.md - Celtic version
 > - README.de.md - German version
 > - README.ro.md - Romanian version
+>
+> You can use [Google Translate](https://translate.google.com/) to quickly translate the content of this README into the necessary languages. Simply copy the English text, translate it, and save it to the appropriate language file.
