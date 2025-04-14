@@ -23,7 +23,20 @@
   
 </div>
 
-<div id="english">
+<div align="center">
+  
+  <h3>Choose Your Language / Elija su idioma / Выберите язык</h3>
+  
+  <a href="README.md">🇬🇧 English</a> •
+  <a href="README.es.md">🇪🇸 Español</a> •
+  <a href="README.ru.md">🇷🇺 Русский</a> •
+  <a href="README.vn.md">🇻🇳 Tiếng Việt</a> •
+  <a href="README.fr.md">🇫🇷 Français</a> •
+  <a href="README.gd.md">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic</a> •
+  <a href="README.de.md">🇩🇪 Deutsch</a> •
+  <a href="README.ro.md">🇷🇴 Română</a>
+  
+</div>
 
 ---
 
@@ -380,138 +393,6 @@ Now Swift should execute properly.
   
 </div>
 
-</div>
-
-<div id="spanish">
-
-# 🚀 Guía Definitiva de Solución de Problemas de Swift
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Descarga Oficial:** [getswift.gg](https://getswift.gg/) | **Estado:** 🟢 Funcionando  
-  > **Última Versión:** `c2c9efad42eb44e5` | **Comunidad:** [Unirse a Discord](https://discord.gg/getswift)
-  
-</div>
-
----
-
-## 📋 Tabla de Contenidos
-
-<details open>
-<summary><b>🔧 Problemas Comunes</b></summary>
-
-- [Error Fatal](#error-fatal)
-- [Tiempo de Espera de Inyección](#tiempo-de-espera-de-inyección)
-- [Módulo no encontrado](#módulo-no-encontrado)
-- [Error al reubicar módulo](#error-al-reubicar-módulo)
-- [El reloj del sistema es incorrecto](#el-reloj-del-sistema-es-incorrecto)
-- [Pantalla blanca](#pantalla-blanca)
-- [No ejecuta](#no-ejecuta)
-- [Problemas del sistema de claves](#problemas-del-sistema-de-claves)
-
-</details>
-
-<!-- Rest of Spanish content would go here -->
-
-</div>
-
-<div id="russian">
-
-# 🚀 Полное руководство по устранению неполадок Swift
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Официальная загрузка:** [getswift.gg](https://getswift.gg/) | **Статус:** 🟢 Работает  
-  > **Последняя версия:** `c2c9efad42eb44e5` | **Сообщество:** [Присоединиться к Discord](https://discord.gg/getswift)
-  
-</div>
-
-<!-- Rest of Russian content would go here -->
-
-</div>
-
-<div id="vietnamese">
-
-# 🚀 Hướng dẫn khắc phục sự cố toàn diện của Swift
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Tải xuống chính thức:** [getswift.gg](https://getswift.gg/) | **Trạng thái:** 🟢 Đang hoạt động  
-  > **Phiên bản mới nhất:** `c2c9efad42eb44e5` | **Cộng đồng:** [Tham gia Discord](https://discord.gg/getswift)
-  
-</div>
-
-<!-- Rest of Vietnamese content would go here -->
-
-</div>
-
-<div id="french">
-
-# 🚀 Guide de dépannage ultime Swift
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Téléchargement officiel:** [getswift.gg](https://getswift.gg/) | **Statut:** 🟢 Fonctionnel  
-  > **Dernière version:** `c2c9efad42eb44e5` | **Communauté:** [Rejoindre Discord](https://discord.gg/getswift)
-  
-</div>
-
-<!-- Rest of French content would go here -->
-
-</div>
-
-<div id="celtic">
-
-# 🚀 Stiùireadh Fuasglaidh Duilgheadasan Swift
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Luchdachadh a-nuas Oifigeil:** [getswift.gg](https://getswift.gg/) | **Inbhe:** 🟢 Ag obair  
-  > **An tionndadh as ùire:** `c2c9efad42eb44e5` | **Coimhearsnachd:** [Thig gu Discord](https://discord.gg/getswift)
-  
-</div>
-
-<!-- Rest of Celtic content would go here -->
-
-</div>
-
-<div id="german">
-
-# 🚀 Swift Ultimativer Fehlerbehebungsleitfaden
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Offizieller Download:** [getswift.gg](https://getswift.gg/) | **Status:** 🟢 Funktioniert  
-  > **Neueste Version:** `c2c9efad42eb44e5` | **Community:** [Discord beitreten](https://discord.gg/getswift)
-  
-</div>
-
-<!-- Rest of German content would go here -->
-
-</div>
-
-<div id="romanian">
-
-# 🚀 Ghid Complet de Depanare Swift
-
-<div align="center">
-  
-  > [!IMPORTANT]
-  > **Descărcare Oficială:** [getswift.gg](https://getswift.gg/) | **Stare:** 🟢 Funcțional  
-  > **Ultima Versiune:** `c2c9efad42eb44e5` | **Comunitate:** [Alătură-te pe Discord](https://discord.gg/getswift)
-  
-</div>
-
-<!-- Rest of Romanian content would go here -->
-
-</div>
-
 ---
 
 <div align="center">
@@ -521,3 +402,13 @@ Now Swift should execute properly.
   <sub>Last updated: August 2023</sub>
   
 </div>
+
+> [!NOTE]
+> For other languages, create the following files in your repository:
+> - README.es.md - Spanish version
+> - README.ru.md - Russian version
+> - README.vn.md - Vietnamese version
+> - README.fr.md - French version
+> - README.gd.md - Celtic version
+> - README.de.md - German version
+> - README.ro.md - Romanian version
