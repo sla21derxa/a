@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Swift Logo](https://getswift.gg/assets/logo.png)
+  ![Swift Logo](https://cdn.discordapp.com/icons/868278834821230613/f8da725eaf8ad54447aae017a979d813.webp?size=1024&format=webp)
   
   > [!IMPORTANT]
   > **Official Download:** [getswift.gg](https://getswift.gg/) | **Status:** 🟢 Working  
