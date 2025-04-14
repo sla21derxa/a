@@ -402,15 +402,3 @@ Now Swift should execute properly.
   <sub>Last updated: April 15, 2025</sub>
   
 </div>
-
-> [!NOTE]
-> For other languages, create the following files in your repository:
-> - README.es.md - Spanish version
-> - README.ru.md - Russian version
-> - README.vn.md - Vietnamese version
-> - README.fr.md - French version
-> - README.gd.md - Celtic version
-> - README.de.md - German version
-> - README.ro.md - Romanian version
->
-> You can use [Google Translate](https://translate.google.com/) to quickly translate the content of this README into the necessary languages. Simply copy the English text, translate it, and save it to the appropriate language file.
